@@ -1,6 +1,2 @@
-Qt bindings for libaudioresource
-================================
-
-These are the Qt bindings for libaudioresource.
-
-See example/ for an example how to use this library with QAudioOutput.
+This project has migrated to https://git.merproject.org/mer-core/libaudioresource-qt
+as part of the Mer/Nemo merge work
